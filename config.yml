@@ -1,0 +1,30 @@
+# is a organization repository ?
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
+
+# site title
+title: 弱智的稚
+
+# github user: your github username
+user: Clumsyr
+
+# issue repository: your issues repository, the issues is the blog content
+repository: logs
+
+# multi-authors, the user name above is included in
+# multi-authors must be separated by ',' 
+# example: author0,author1
+authors: Clumsyr
+  
+# token
+# token must be separated by '#'
+# if your token is 5c31bffc137f44faf7efc4a84da827g7ca2cfeaa 
+# the token value is 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 4#8a2aa2adc6c55109a8e384c140d4ce052a1b1ba
+
+# posts per page
+perpage: 10
